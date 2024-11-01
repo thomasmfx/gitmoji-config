@@ -1,83 +1,83 @@
 ```
 [
   {
-    "emoji": "🌟",
+    "emoji": "🌟 feat",
     "entity": "&#x1F31F;",
     "code": ":star2:",
-    "description": "feat | Introduce new features.",
-    "name": "feat",
+    "description": "Introduce new features.",
+    "name": "star2",
     "semver": "minor"
   },
   {
-    "emoji": "🐞",
+    "emoji": "🐞 fix",
     "entity": "&#x1F41E;",
     "code": ":lady_beetle:",
-    "description": "fix | Fix a bug.",
-    "name": "fix",
+    "description": "Fix a bug.",
+    "name": "lady-beetle",
     "semver": "patch"
   },
   {
-    "emoji": "📚",
+    "emoji": "📚 docs",
     "entity": "&#x1F4DA;",
     "code": ":books:",
-    "description": "docs | Add or update documentation.",
-    "name": "docs",
+    "description": "Add or update documentation.",
+    "name": "books",
     "semver": null
   },
   {
-    "emoji": "🌈",
+    "emoji": "🌈 style",
     "entity": "&#x1F308;",
     "code": ":rainbow:",
-    "description": "style | Improve code style / formatting.",
-    "name": "style",
+    "description": "Improve code style / formatting.",
+    "name": "rainbow",
     "semver": null
   },
   {
-    "emoji": "🦄",
+    "emoji": "🦄 refactor",
     "entity": "&#x1F984;",
     "code": ":unicorn:",
-    "description": "refactor | Refactor code.",
-    "name": "refactor",
+    "description": "Refactor code.",
+    "name": "unicorn",
     "semver": "patch"
   },
   {
-    "emoji": "🚀",
+    "emoji": "🚀 perf",
     "entity": "&#x1F680;",
     "code": ":rocket:",
-    "description": "perf | Improve performance.",
-    "name": "perf",
+    "description": "Improve performance.",
+    "name": "rocket",
     "semver": "patch"
   },
   {
-    "emoji": "🧪",
+    "emoji": "🧪 test",
     "entity": "&#x1F9EA;",
     "code": ":test_tube:",
-    "description": "test | Add or update tests.",
-    "name": "test",
+    "description": "Add or update tests.",
+    "name": "test-tube",
     "semver": null
   },
   {
-    "emoji": "🧰",
+    "emoji": "🧰 build",
     "entity": "&#x1F9F0;",
     "code": ":toolbox:",
-    "description": "build | Add or update build system.",
-    "name": "build",
+    "description": "Add or update build system.",
+    "name": "toolbox",
     "semver": null
   },
   {
-    "emoji": "👷",
+    "emoji": "👷 ci",
     "entity": "&#x1F477;",
     "code": ":construction_worker:",
-    "description": "ci | Update CI configuration.",
-    "name": "ci",
+    "description": "Update CI configuration.",
+    "name": "construction-worker",
     "semver": null
   },
   {
-    "emoji": "🐳",
+    "emoji": "🐳 chore",
     "entity": "&#x1F433;",
     "code": ":whale:",
-    "description": "chore | Other changes that don't modify src or test files.",
-    "name": "chore",
+    "description": "Other changes that don't modify src or test files.",
+    "name": "whale",
     "semver": null
   }
 ]
