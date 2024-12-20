@@ -9,7 +9,7 @@
       "semver": "minor"
     },
     {
-      "emoji": "🐞 bug:",
+      "emoji": "🐞 fix:",
       "entity": "&#x1F41E;",
       "code": ":lady_beetle:",
       "description": "Fix a bug.",
