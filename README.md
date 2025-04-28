@@ -2,7 +2,7 @@
 {
   "gitmojis": [
     {
-      "emoji": "🌟",
+      "emoji": "🌟 feat:",
       "entity": "&#x1F31F;",
       "code": ":star2:",
       "description": "Introduce new features.",
@@ -10,7 +10,7 @@
       "semver": "minor"
     },
     {
-      "emoji": "🐞",
+      "emoji": "🐞 fix:",
       "entity": "&#x1F41E;",
       "code": ":lady_beetle:",
       "description": "Fix a bug.",
@@ -18,7 +18,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "📚",
+      "emoji": "📚 docs:",
       "entity": "&#x1F4DA;",
       "code": ":books:",
       "description": "Add or update documentation.",
@@ -26,7 +26,7 @@
       "semver": null
     },
     {
-      "emoji": "🌈",
+      "emoji": "🌈 style:",
       "entity": "&#x1F308;",
       "code": ":rainbow:",
       "description": "Improve code style / formatting.",
@@ -34,7 +34,7 @@
       "semver": null
     },
     {
-      "emoji": "🦄",
+      "emoji": "♻️ refactor:",
       "entity": "&#x1F984;",
       "code": ":unicorn:",
       "description": "Refactor code.",
@@ -42,7 +42,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🚀",
+      "emoji": "🚀 perf:",
       "entity": "&#x1F680;",
       "code": ":rocket:",
       "description": "Improve performance.",
@@ -50,7 +50,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🧪",
+      "emoji": "🧪 test:",
       "entity": "&#x1F9EA;",
       "code": ":test_tube:",
       "description": "Add or update tests.",
@@ -58,7 +58,7 @@
       "semver": null
     },
     {
-      "emoji": "🧰",
+      "emoji": "📦 build:",
       "entity": "&#x1F9F0;",
       "code": ":toolbox:",
       "description": "Add or update build system.",
@@ -66,7 +66,7 @@
       "semver": null
     },
     {
-      "emoji": "👷",
+      "emoji": "👷 ci:",
       "entity": "&#x1F477;",
       "code": ":construction_worker:",
       "description": "Update CI configuration.",
@@ -74,7 +74,7 @@
       "semver": null
     },
     {
-      "emoji": "🐳",
+      "emoji": "🐳 chore:",
       "entity": "&#x1F433;",
       "code": ":whale:",
       "description": "Other changes that don't modify src or test files.",
