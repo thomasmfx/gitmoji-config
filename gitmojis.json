@@ -33,7 +33,7 @@
       "semver": null
     },
     {
-      "emoji": "🦄 refactor:",
+      "emoji": "♻️ refactor:",
       "entity": "&#x1F984;",
       "code": ":unicorn:",
       "description": "Refactor code.",
@@ -57,7 +57,7 @@
       "semver": null
     },
     {
-      "emoji": "🧰 build:",
+      "emoji": "📦 build:",
       "entity": "&#x1F9F0;",
       "code": ":toolbox:",
       "description": "Add or update build system.",
